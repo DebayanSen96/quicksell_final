@@ -8,9 +8,10 @@ Working Features :-
 
 Improvements that i can make :-
 1) General code syntaxes i can improve/clean more.
-2) Can divide some parts into more components.
-
+2) I Can divide some parts into more components.
+3) I can combine GroupbyStatus, GroupbyUsers, GroupbyPriority into a single component with additional logic.
 
 Name: Debayan Sen
 Enrollment: 20UEI068
+College: NIT, Agartala
 Completed in 1 day :)
