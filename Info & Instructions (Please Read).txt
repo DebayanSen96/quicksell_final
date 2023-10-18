@@ -5,6 +5,7 @@ Working Features :-
 4) Fully Dynamic Data from API (No hard coded data).
 5) Stores user's view state even after page reload/closing the browser.
 6) No external library used.
+7) All the data in each card like ID, Tag , Message , Priority Icons are dynamic and can change for each card based on it's contents.
 
 Improvements that i can make :-
 1) General code syntaxes i can improve/clean more.
