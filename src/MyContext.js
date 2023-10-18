@@ -21,12 +21,15 @@ export function MyProvider({ children }) {
   async function handleChange() {
     const savedGroupingConfig = localStorage.getItem("grouping_config");
     const savedOrderingConfig = localStorage.getItem("ordering_config");
+    let obj = { ...data };
     if (savedGroupingConfig && savedOrderingConfig) {
-      let obj = { ...data };
+      
       obj.ordering_config = savedOrderingConfig;
       obj.grouping_config = savedGroupingConfig;
 
       // Make the API call after retrieving local storage data
+      await apiCall(obj);
+    }else {
       await apiCall(obj);
     }
   }
