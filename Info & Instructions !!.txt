@@ -1,0 +1,16 @@
+Working Features :-
+1) Grouping (Status, Priority, User).
+2) All Components custom made(including drop-down buttons, cards etc).
+3) Ordering/Sorting (Priority, Title).
+4) Fully Dynamic Data from API (No hard coded data).
+5) Stores user's view state even after page reload/closing the browser.
+6) No external library used.
+
+Improvements that i can make :-
+1) General code syntaxes i can improve/clean more.
+2) Can divide some parts into more components.
+
+
+Name: Debayan Sen
+Enrollment: 20UEI068
+Completed in 1 day :)
