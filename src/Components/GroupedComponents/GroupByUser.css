@@ -1,0 +1,5 @@
+.user-div{
+  display: grid;
+  grid-template-columns: repeat(auto-fill,0.2fr);
+  grid-row-gap: 300px;
+}
