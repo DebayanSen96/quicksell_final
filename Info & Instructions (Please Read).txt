@@ -1,16 +1,17 @@
 Working Features :-
 1) Grouping (Status, Priority, User).
-2) All Components custom made(including drop-down buttons, cards etc).
-3) Ordering/Sorting (Priority, Title).
+2) Ordering/Sorting (Priority, Title).
+3) All Components are custom made(including drop-down buttons, cards etc).
 4) Fully Dynamic Data from API (No hard coded data).
 5) Stores user's view state even after page reload/closing the browser.
-6) No external library used.
+6) No external library used i.e purely built in React.js .
 7) All the data in each card like ID, Tag , Message , Priority Icons are dynamic and can change for each card based on the data from the API.
 
 Improvements that i can make :-
 1) General code syntaxes i can improve/clean more.
 2) I Can divide some parts into more components.
 3) I can combine GroupbyStatus, GroupbyUsers, GroupbyPriority into a single component with additional logic.
+4) Can optimize for mobile/tabs with media queries.
 
 Name: Debayan Sen
 Enrollment: 20UEI068
